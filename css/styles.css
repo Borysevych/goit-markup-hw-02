@@ -140,6 +140,7 @@ color: var(--activ-color);
 
 .adress-link{
     color: #FFFFFF;
+    font-style: normal;
     font-size: 14px;
     line-height: 1.71;
 }
