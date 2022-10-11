@@ -1,0 +1,100 @@
+
+/* Палітра
+основний колір тексту - #212121;
+додатковий колір тексту - #757575;
+колір активності - #2196F3;
+білий - #FFFFFF;
+*/
+
+body{
+    color: #212121;
+    background-color: #F5F5F5;
+}
+
+.header{
+    background-color: #FFFFFF;
+}
+
+.list{
+    list-style: none;
+}
+
+.logo{
+    color: #2196F3;
+}
+
+.logo-end{
+    color: #000000;
+}
+
+.logo-end-f{
+    color: #FFFFFF;
+}
+
+.link{
+    color: #212121;
+}
+
+.link:hover,
+.link:focus,
+.adress-link:hover,
+.adress-link:focus {
+color: #2196F3;
+}
+
+.hero{
+    background-color: #2F303A;
+}
+
+.hero-title{
+    color: #FFFFFF;
+}
+
+.hero-button{
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+.principles-text,
+.p-text{
+    color: #757575;
+}
+
+.team{
+    background-color: #F5F4FA;
+}
+
+.team-card{
+    background-color: #FFFFFF;
+}
+
+.footer{
+    background-color: #2F303A;
+}
+
+.adress-link{
+    color: #FFFFFF;
+}
+
+.filter{
+    background-color: #F5F4FA;
+}
+
+.filter:hover,
+.filter:focus{
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+
+.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+margin: -1px;
+border: 0;
+padding: 0;
+white-space: nowrap;
+clip-path: inset(100%);
+clip: rect(0 0 0 0);
+overflow: hidden;
+}
